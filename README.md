@@ -2,7 +2,7 @@
 
 I'm Dylan Barkowsky. I work as a Full Stack Developer for the Ministry of Citizens' Services in British Columbia.
 
-On my personal repositories, you'll find a mix of learning and passion projects. I tend to make apps that have some sort of practical use challenges in my life, but there's a lot of fun stuff in there as well.
+On my personal repositories, you'll find a mix of learning and passion projects. I tend to make apps that have some sort of practical use for challenges in my life, but there's a lot of fun stuff in there as well.
 
 Feel free to reach out to me if you have questions about anything you see or even if you just want to chat about project-related ideas.
 
