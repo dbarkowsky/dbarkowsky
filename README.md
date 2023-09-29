@@ -30,13 +30,13 @@ Feel free to reach out to me if you have questions about anything you see or eve
 
 ### Platforms and Infrastructure
 
-[![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://github.com/bcgov/tno/wiki)
-[![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://github.com/bcgov/tno/wiki)
-[![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://github.com/bcgov/tno/wiki)
-[![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/bcgov/tno/wiki)
-[![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/bcgov/tno/wiki)
-[![Mac](https://img.shields.io/badge/Mac-323330?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bcgov/tno/wiki)
-[![RPi](https://img.shields.io/badge/RPi-323330?style=for-the-badge&logo=raspberrypi&logoColor=red)](https://github.com/bcgov/tno/wiki)
+[![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://github.com/dbarkowsky)
+[![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://github.com/dbarkowsky)
+[![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://github.com/dbarkowsky)
+[![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/dbarkowsky)
+[![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/dbarkowsky)
+[![Mac](https://img.shields.io/badge/Mac-323330?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/dbarkowsky)
+[![RPi](https://img.shields.io/badge/RPi-323330?style=for-the-badge&logo=raspberrypi&logoColor=red)](https://github.com/dbarkowsky)
 
 ### Databases
 
