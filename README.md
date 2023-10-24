@@ -13,37 +13,37 @@ Feel free to reach out to me if you have questions about anything you see or eve
 
 ### Languages and Libraries
 
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/dbarkowsky)
-[![Typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)](https://github.com/dbarkowsky)
-[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/dbarkowsky)
-[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=Express&logoColor=F7DF1E)](https://github.com/dbarkowsky)
-[![Node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)](https://github.com/dbarkowsky)
-[![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=red)](https://github.com/dbarkowsky)
-[![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/dbarkowsky)
-[![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/dbarkowsky)
-[![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/dbarkowsky)
-[![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/dbarkowsky)
-[![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=slateblue)](https://github.com/dbarkowsky)
-[![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/dbarkowsky)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
+[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=Express&logoColor=F7DF1E)](https://expressjs.com/)
+[![Node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)](https://nodejs.org/en)
+[![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=red)](https://www.npmjs.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=slateblue)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+[![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://cplusplus.com/doc/tutorial/)
 
 <!-- [![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://github.com/dbarkowsky) -->
 
 ### Platforms and Infrastructure
 
-[![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://github.com/dbarkowsky)
-[![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://github.com/dbarkowsky)
-[![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://github.com/dbarkowsky)
-[![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/dbarkowsky)
-[![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/dbarkowsky)
-[![Mac](https://img.shields.io/badge/Mac-323330?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/dbarkowsky)
-[![RPi](https://img.shields.io/badge/RPi-323330?style=for-the-badge&logo=raspberrypi&logoColor=red)](https://github.com/dbarkowsky)
+[![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
+[![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://docs.openshift.com/)
+[![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://aws.amazon.com/)
+[![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![Mac](https://img.shields.io/badge/Mac-323330?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![RPi](https://img.shields.io/badge/RPi-323330?style=for-the-badge&logo=raspberrypi&logoColor=red)](https://www.raspberrypi.com/software/)
 
 ### Databases
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green)](https://github.com/dbarkowsky)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue)](https://github.com/dbarkowsky)
-[![Oracle](https://img.shields.io/badge/Oracle-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://github.com/dbarkowsky)
-[![MS SQL](https://img.shields.io/badge/MSSQL-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue)](https://github.com/dbarkowsky)
+[![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/ca-en/database/)
+[![MS SQL](https://img.shields.io/badge/MSSQL-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 
 ### Tools
 
