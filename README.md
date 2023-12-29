@@ -23,7 +23,7 @@ Feel free to reach out to me if you have questions about anything you see or eve
 [![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=slateblue)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+[![C#](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=csharp&logoColor=slateblue)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://cplusplus.com/doc/tutorial/)
 
 <!-- [![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://github.com/dbarkowsky) -->
