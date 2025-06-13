@@ -44,7 +44,7 @@ Feel free to reach out to me if you have questions about anything you see or eve
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/ca-en/database/)
 [![MS SQL](https://img.shields.io/badge/MSSQL-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
-[![Neo4j](https://img.shields.io/badge/MSSQL-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue)](https://neo4j.com)
+[![Neo4j](https://img.shields.io/badge/Neo4j-323330?style=for-the-badge&logoColor=blue)](https://neo4j.com)
 
 ### Tools
 
