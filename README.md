@@ -25,6 +25,8 @@ Feel free to reach out to me if you have questions about anything you see or eve
 [![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=csharp&logoColor=slateblue)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://cplusplus.com/doc/tutorial/)
+[![Dart](https://img.shields.io/badge/dart-323330?style=for-the-badge&logo=dart&logoColor=blue)](https://dart.dev/)
+
 
 <!-- [![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=red)](https://github.com/dbarkowsky) -->
 
